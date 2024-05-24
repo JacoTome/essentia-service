@@ -1,0 +1,14 @@
+blinker==1.8.2
+click==8.1.7
+Cython==0.29.36
+dnspython==2.6.1
+Flask==3.0.3
+ifaddr==0.2.0
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+numpy==1.26.4
+osc4py3==1.0.8
+py_eureka_client==0.11.10
+setuptools==70.0.0
+Werkzeug==3.0.3
